@@ -1,6 +1,6 @@
 # 3D Tabletop Scanner
 
-##Simple tabletop 3D object detector using PCL
+## Simple tabletop 3D object detector using PCL
 
 This project takes in a pcd file called "tabletop.pcd" from a Intel RealSense looking down on a tabletop surface. The code does the following: 
 - Filters the point cloud in a pipeline with a Passthrough and Voxel Grid filter
